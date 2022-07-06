@@ -1,4 +1,4 @@
-# Array
+# One Dimensional Array
 Program Array dimensi 1
 
 Program mencangkup:
